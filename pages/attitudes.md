@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Antisemitic attitudes
-permalink: /chaceweb/attitudes/
+permalink: /attitudes/
 ---
 
 Surveys can measure prejudice in various ways. Researchers can ask whether people think positively or negatively about the group in question, which provides a straightforward and easy-to-interpret measure. Another way is to have respondents select groups they would not like to have as neighbors (a social-distance measure of prejudice). Third, one may ask respondents to agree or disagree about particular statements deemed to reflect prejudice.
