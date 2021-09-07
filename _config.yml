@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Research blog for CHACE, a project studying antisemitism in post-Cold War Europe funded by the Research Council of Norway and directed by Johannes Due Enstad at the Norwegian Institute for Social Research.
 
 baseurl: /chaceweb # the subpath of your site, e.g. /blog
-url: https://johannesdue.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: localhost:4000 # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: johannes_d_e
 github_username:  johannesdue
 markdown: kramdown
@@ -33,7 +33,7 @@ header_pages:
   - data.md
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
