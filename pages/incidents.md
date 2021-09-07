@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Incidents and perceptions of perpetrators
-permalink: /incidents/
+permalink: /chaceweb/incidents/
 ---
 ## Incident data
 
