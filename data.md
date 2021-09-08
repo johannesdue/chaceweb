@@ -12,11 +12,11 @@ The public data collected so far have been deposited at [OSF](https://osf.io/m4y
 
 Click on the links below to view interactive plots showing some key patterns and trends in the development of contemporary antisemitism. The plots were created in R using [Plotly](https://plotly.com/ggplot2/getting-started/).
 
-- [Antisemitic attitudes]({% link pages/attitudes.md %})
+- [Antisemitic attitudes]({{ site.baseurl }}{% link pages/attitudes.md %})
 
-- [Antisemitic incidents and perpetrator perceptions]({% link pages/incidents.md %})
+- [Antisemitic incidents and perpetrator perceptions]({{ site.baseurl }}{% link pages/incidents.md %})
 
-- [Levels of concern among Jews in Europe]({% link pages/concern-levels.md %})
+- [Levels of concern among Jews in Europe]({{ site.baseurl }}{% link pages/concern-levels.md %})
 
 ### Qualitative data
 
