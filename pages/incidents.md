@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Incidents and perceptions of perpetrators
+author: Johannes D. Enstad
 permalink: /incidents/
 ---
 ## Incident data

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Levels of concern among Jews
+author: Johannes D. Enstad
 permalink: /concern-levels/
 ---
 
