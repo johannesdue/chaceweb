@@ -29,6 +29,7 @@ baseurl: /chaceweb/
 twitter_username: johannes_d_e
 github_username:  johannesdue
 markdown: kramdown
+timezone: Europe/Oslo
 header_pages:
   - about.md
   - data.md
