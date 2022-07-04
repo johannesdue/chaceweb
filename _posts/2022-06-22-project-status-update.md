@@ -11,7 +11,7 @@ After launching the project in mid-2020, much time was spent getting things up a
 
 ### Paper forthcoming in *Antisemitism Studies* 
 
-The project has seen its first peer-reviewed publication (in press)! The paper, which I posted as a [preprint](/chaceweb/misc/2021/09/06/Preprint-contemporary-antisemitism-in-three-dimensions.html) in 2021, has now been revised, re-titled, and accepted for publication in *Antisemitism Studies*. The updated manuscript, "Accounting for Contemporary Antisemitism: A Four-Dimensional Framework and a New Dataset", can be accessed at [SocArXiv](https://osf.io/preprints/socarxiv/adqkn/). This piece has been through several iterations—earlier versions were turned down twice and pulled by me once (because of an agonizingly slow-moving editorial process)—and now, after a round of revisions, it has finally found a home.
+The project has seen its first peer-reviewed publication (in press)! The paper, which I posted as a [preprint](/chaceweb/misc/2021/09/06/Preprint-contemporary-antisemitism-in-three-dimensions.html) in 2021, has now been revised, re-titled, and accepted for publication in *Antisemitism Studies*. The updated manuscript is entitled "Accounting for Contemporary Antisemitism: A Four-Dimensional Framework and a New Dataset". This piece has been through several iterations—earlier versions were turned down twice and pulled by me once (because of an agonizingly slow-moving editorial process)—and now, after a round of revisions, it has finally found a home.
 
 ### DIMA — a new dataset!
 
