@@ -5,9 +5,7 @@ author: Johannes D. Enstad
 permalink: /data/
 ---
 
-How is contemporary antisemitism developing globally and over time? A key step towards answering this question is to collect and inspect relevant data. As part of the CHACE project, publicly available data is being gathered from a range of sources, including cross-national attitude surveys, global incident monitoring, and victimization surveys. 
-
-As a result of this work, I have created the DIMA (Dimensions of Antisemitism) dataset, which is publicly available at [OSF](https://osf.io/x4vcj/).
+How is contemporary antisemitism developing globally and over time? A key step towards answering this question is to collect and inspect relevant data. As part of the CHACE project, publicly available data is being gathered from a range of sources, including cross-national attitude surveys, global incident monitoring, and victimization surveys.
 
 ### Data visualization
 
