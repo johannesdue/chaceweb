@@ -6,7 +6,7 @@ permalink: /attitudes/
 
 Surveys can measure prejudice in various ways. Researchers can ask whether people think positively or negatively about the group in question, which provides a straightforward and easy-to-interpret measure. Another way is to have respondents select groups they would not like to have as neighbors (a social-distance measure of prejudice). Third, one may ask respondents to agree or disagree about particular statements deemed to reflect prejudice.
 
-The following plots show the development of antisemitic attitudes over time and across countries based on cross-national surveys with nationally representative samples using each of the three measures. The data used to create these plots are part of the DIMA dataset, which can be accessed at [OSF](https://osf.io/x4vcj/).
+The following plots show the development of antisemitic attitudes over time and across countries based on cross-national surveys with nationally representative samples using each of the three measures.
 
 The first plot is based on data from [Pew's global attitudes surveys](https://www.pewresearch.org/global/datasets/) reaching back to 1991. Values for each country-year were calculated by subtracting the share of respondents indicating an unfavorable opinion of Jews from the share indicating a favorable one.
 
