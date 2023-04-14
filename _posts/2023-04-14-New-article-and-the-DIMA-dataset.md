@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New article and the DIMA dataset"
-date:   2023-03-14 12:00:00 +0200
+date:   2023-03-14 08:00:00 +0200
 author: Johannes D. Enstad
 categories: misc
 ---
@@ -15,5 +15,3 @@ The DIMA dataset compiles longitudinal (from 1990 onward) and cross-national dat
 We hope the DIMA dataset may become a useful tool for researchers, policymakers, journalists, and organizations interested in understanding the development of antisemitism. Users can leverage DIMA to identify and analyze trends and to generate or test research hypotheses.
 
 The dataset is [hosted](https://www.sv.uio.no/c-rex/english/groups/dima-dataset/index.html) by the Center for Research on Extremism (C-REX) at the University of Oslo. The data can be also be accessed at [OSF](https://osf.io/x4vcj/).
-
-
