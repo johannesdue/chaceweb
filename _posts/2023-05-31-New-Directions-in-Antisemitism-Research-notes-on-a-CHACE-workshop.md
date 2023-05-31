@@ -9,7 +9,7 @@ The CHACE project, in collaboration with the Institute for Social Research and t
 
 The 21st century resurgence of antisemitism has generated new scholarly attention to a very old phenomenon. While traditional antisemitism research has been heavy on history and the humanities, today’s emerging scholarship is multifarious, involving various social science and humanities disciplines, employing quantitative and computational approaches alongside qualitative and contextual ones.
 
-The purpose of this workshop was to take stock: What have we learned? What are the major blank spots? And where do we go from here? The workshop gathered a multidisciplinary group of established and emerging scholars of contemporary antisemitism as well as Jewish community stakeholders to discuss the status of knowledge, reflect on aspects that remain poorly understood, and suggest ways ahead in forging a research agenda for the future.
+The purpose of this workshop was to take stock: What have we learned? What are the major blank spots? And where do we go from here? The workshop gathered a multidisciplinary group of established and emerging scholars of contemporary antisemitism as well as Jewish community stakeholders to discuss the status of knowledge, reflect on aspects that remain poorly understood, and suggest ways ahead in forging a research agenda for the future. View the full program and participant bios [here](https://www.sv.uio.no/c-rex/english/news-and-events/events/2023/oslo_workshop_program.pdf).
 
 <p align="center">
   <img alt="Light" src="/chaceweb/assets/program1.png" width="45%">
