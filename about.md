@@ -14,7 +14,7 @@ The project seeks to describe and explain the development of antisemitism in pos
 * What characterizes the diverging paths of post-Cold War antisemitism in Europe?
 * Why has antisemitism come to afflict some countries more than others, as demonstrated by the varying prevalence of anti-Jewish attitudes, different levels of violence and harassment targeting Jews, and variation in Jews' objective and subjective exposure to antisemitism?
 
-CHACE is funded by the Research Council of Norway. Directing the project, and maintaining this site, is [Johannes Due Enstad](https://www.samfunnsforskning.no/english/people/res/johane/index.html), Senior Researcher at the Norwegian Institute for Social Research. Also participating in the project is [Zuzanna Roslonska](https://www.sv.uio.no/c-rex/english/people/aca/zuzannr/index.html), a doctoral research fellow at C-REX.
+CHACE is funded by the Research Council of Norway. Directing the project, and maintaining this site, is [Johannes Due Enstad](https://www.samfunnsforskning.no/english/people/res/johane/index.html), Senior Researcher at the Norwegian Institute for Social Research. Also participating in the project is [Alec Z. Roslonska](https://www.sv.uio.no/c-rex/english/people/aca/zuzannr/index.html), a doctoral research fellow at C-REX.
 
 [jekyll-organization]: https://github.com/jekyll
 <br><br><br><br>
