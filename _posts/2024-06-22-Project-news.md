@@ -21,6 +21,3 @@ The CHACE project has moved into its final year of operations, and it has been a
 * In April 2024, a peer-reviewed article entitled "Det eldste hatet i en ny tid" ("The oldest hatred in a new era") was published in the journal *Agora*. An ungated version of the paper can be read [here](https://www.researchgate.net/publication/379823649_Det_eldste_hatet_i_en_ny_tid) (in Norwegian).
 
 * In June 2024, I presented ongoing research from the CHACE project at the Nordic Conference on Violent Extremism, held at the University of Oslo. The talk, entitled "Does antizionism mask antisemitism? Evidence from Norwegian and European surveys", is briefly summarized [here](https://www.sv.uio.no/c-rex/english/news-and-events/events/2024/ncve2024/panels/panel-5e-antisemitism-and-polarization.html).
-
-* In XXXXX, my article "Facing antisemitism in Europe: individual and country-level predictors of antisemitic victimization and fear across twelve countries was published in *Social Forces*. The article is open access and can be read [here](...).
-
