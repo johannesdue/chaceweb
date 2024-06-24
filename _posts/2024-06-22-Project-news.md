@@ -17,8 +17,7 @@ The CHACE project has moved into its final year of operations, and it has been a
 	- In January 2024, my article about the Jewish Pathfinders project was published in *For a Righteous Cause*, an annual report published by the Center for the Study of Contemporary European Jewry at Tel Aviv University to document and analyze developments and initiatives in the fight against antisemitism and racism globally. The [article](https://cst.tau.ac.il/wp-content/uploads/2024/01/Annual-Report-2024.pdf), entitled "Norway: Know Thy Neighbor", discusses the Jewish Pathfinders project, a remarkable intervention by the Jewish Community of Oslo designed to familiarize young Norwegians with Jews and thereby reduce the potential for antisemitism in tomorrow's society.
 	- In May 2024, my article "[Scandinavia: Some Cold Realities](https://cst.tau.ac.il/antisemitism-worldwide-report-for-2023/)", describing developments related to antisemitism in Scandinavia in the months following October 7, was published in the report *Antisemitism Worldwide*, an annual publication by the Center for the Study of Contemporary European Jewry at Tel Aviv University.
 	- In May 2024, my op-ed discussing how antizionist slogans can mask antisemitic attitudes was published in the newspaper *Klassekampen*. A PDF of the article can be downloaded [here](/chaceweb/assets/enstad_kk_20240507.pdf).
-
-<br/> 
+<br/>
 
 * In April 2024, a peer-reviewed article entitled "Det eldste hatet i en ny tid" ("The oldest hatred in a new era") was published in the journal *Agora*. An ungated version of the paper can be read [here](https://www.researchgate.net/publication/379823649_Det_eldste_hatet_i_en_ny_tid) (in Norwegian).
 
