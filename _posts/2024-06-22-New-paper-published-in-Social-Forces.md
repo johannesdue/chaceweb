@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'New paper published in Social Forces'
+date:   2024-07-01 08:00:00 +0200
+author: Johannes D. Enstad
+categories: misc
+---
+
+I'm pleased to announce that my article, "Facing antisemitism in Europe: individual and country-level predictors of Jews’ victimization and fear across twelve countries", has just been published in *Social Forces*. The [article](https://doi.org/10.1093/sf/soae091) is open access.
+
+Here is the abstract:
+
+> Rising antisemitism in the twenty-first century has alarmed Jewish communities and the general public, but antisemitic hate crime victimization remains understudied outside the US context. This study primarily relies on a comprehensive survey of 16,400 Jews across twelve European countries, supplemented with data from additional sources, to assess individual and country-level predictors of Jews’ experiences and fears of antisemitic harassment and violence. Multilevel models indicate that young age, perceived discrimination, identity visibility, and identification with Israel are pronounced individual risk factors for victimization. On the country level, negative opinion of Israel and Muslim population share predict victimization, highlighting the role of a "new" or Israel-derived antisemitism in the twenty-first century. The factors most strongly associated with fear are young age, previous victimization, perceptions of an ambient antisemitic threat, and recent occurrence of fatal antisemitic violence. Overall, the findings underscore the importance of integrating general theory on hate crime and victimization with context-specific factors when seeking to understand the experiences of targeted groups.
