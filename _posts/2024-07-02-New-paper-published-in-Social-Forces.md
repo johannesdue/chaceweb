@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New paper published in Social Forces'
-date:   2024-07-02 08:00:00
+date:   2024-07-01
 author: Johannes D. Enstad
 categories: misc
 ---
