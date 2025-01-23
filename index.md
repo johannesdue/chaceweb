@@ -6,4 +6,8 @@ layout: home
 ---
 Welcome to *Documenting Contemporary Antisemitism*.
 
+```xml
+<img src="assets/Oslo_synagogue_bergstien.jpg" width="48">
+```
+
 This is a research blog for CHACE (Comparing Histories of Antisemitism in Contemporary Europe), a project based at the [Norwegian Institute for Social Research](https://www.samfunnsforskning.no/english/) and the Center for Research on Extremism ([C-REX](https://www.sv.uio.no/c-rex/english/)) at the University of Oslo.
