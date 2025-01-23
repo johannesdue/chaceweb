@@ -20,7 +20,6 @@ Antisemitism is not afflicting all European countries equally, however, nor is i
 
 CHACE was funded by the Research Council of Norway. Directing the project, and maintaining this site, is [Johannes Due Enstad](https://www.samfunnsforskning.no/english/people/res/johane/index.html), Senior Researcher at the Norwegian Institute for Social Research. Also participating in the project is [Alec Z. Roslonska](https://www.sv.uio.no/c-rex/english/people/aca/zuzannr/index.html), a doctoral research fellow at C-REX.
 
-`<br><br>``<br><br>`
-
 [jekyll-organization]: https://github.com/jekyll
+
 [^1]: Thanks to [The Programming Historian](https://programminghistorian.org), and especially Amanda Visconti's [great primer](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) on how to build a static website with Jekyll and GitHub Pages, for inspiring the creation of this site.
