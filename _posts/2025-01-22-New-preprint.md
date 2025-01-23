@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'New preprint: What drives antisemitic hostility in the 21st century?'
+date: 2025-01-22
 author: Johannes D. Enstad
 categories: misc
 ---
