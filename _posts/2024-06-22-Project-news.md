@@ -20,6 +20,6 @@ The Hamas-led attack on Israel on 7 October 2023 and the resulting war in Gaza l
 * In May 2024, my op-ed discussing how antizionist slogans can mask antisemitic attitudes was published in the newspaper *Klassekampen*. A PDF of the article can be downloaded [here](/chaceweb/assets/enstad_kk_20240507.pdf).
 
 
-In April 2024, a peer-reviewed article entitled "Det eldste hatet i en ny tid" ("The oldest hatred in a new era") was published in the journal *Agora*. An ungated version of the paper can be read [here](https://www.researchgate.net/publication/379823649_Det_eldste_hatet_i_en_ny_tid) (in Norwegian).
+In April 2024, a peer-reviewed article entitled "Det eldste hatet i en ny tid" ("The oldest hatred in a new era") was published in the journal *Agora*. An ungated version of the paper can be read [here](https://samfunnsforskning.brage.unit.no/samfunnsforskning-xmlui/bitstream/handle/11250/3176040/enstad_det_eldste_hatet_Agora_1-2_2024_.pdf?sequence=4&isAllowed=y) (in Norwegian).
 
 In June 2024, I presented ongoing research from the CHACE project at the Nordic Conference on Violent Extremism, held at the University of Oslo. The talk, entitled "Does antizionism mask antisemitism? Evidence from Norwegian and European surveys", is briefly summarized [here](https://www.sv.uio.no/c-rex/english/news-and-events/events/2024/ncve2024/panels/panel-5e-antisemitism-and-polarization.html).
