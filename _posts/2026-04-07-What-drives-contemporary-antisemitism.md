@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Article published in Contemporary Jewry: What drives antisemitic hostility in the 21st century?"
-date: 2026-04-07 10:00:00
+date: 2026-04-07
 ---
 
 Although the CHACE project has been formally finalized, some pieces of research have remained in the pipeline. One of them was published today in *Contemporary Jewry*. In this paper I pose a big question: What drives antisemitic hostility in the 21st century? The article certainly does not settle this complex issue, but begins to address it more systematically than before by way of a comparative and longitudinal case study approach focusing on Germany, Sweden, and Russia in the period 1990 to 2020.
