@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Article published in Contemporary Jewry: What drives antisemitic hostility in the 21st century?"
+author: Johannes D. Enstad
 date: 2026-04-07 10:00:00
 ---
 
